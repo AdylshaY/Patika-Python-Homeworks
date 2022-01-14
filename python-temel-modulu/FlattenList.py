@@ -15,3 +15,4 @@ def IsList(array):
         return False
     
 l = []
+print(FlattenList(array))
